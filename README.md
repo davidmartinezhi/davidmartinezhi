@@ -5,7 +5,6 @@
 >"If you love what you do and are willing to do what it takes, it's within your reach" - Steve Wozniak
 
 
-
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Excited by the fact that there are no limits to what can be accomplished through technology. 
@@ -23,7 +22,7 @@
 
 ✉️ &nbsp;You can shoot me an email at gerardomartinez.hi@gmail.com! I'll try to respond as soon as I can.
 
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/15_z1f_Wcddr8qH_FkpHv9x_P6CN6G3sf/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
