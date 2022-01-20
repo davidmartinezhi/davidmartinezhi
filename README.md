@@ -62,3 +62,5 @@
 <a href="www.instagram.com/davidmartinez.hi"><img src="https://img.shields.io/badge/-@davidmartinezhi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/davidmtzhi"><img src="https://img.shields.io/badge/-@davidmtzhi-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=davidmartinezhi&label=Profile Views&color=blue&style=flat-square" alt="Profile Views" /> </p>
