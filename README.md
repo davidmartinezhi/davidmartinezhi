@@ -57,3 +57,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/david-gerardo-mart%C3%ADnez-hidrogo-7340b21b8"><img src="https://img.shields.io/badge/-David%20Gerardo%20Martínez%20Hidrogo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gerardomartinez.hi@gmail.com"><img src="https://img.shields.io/badge/-gerardomartinez.hi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="www.instagram.com/davidmartinez.hi"><img src="https://img.shields.io/badge/-@davidmartinezhi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/davidmtzhi"><img src="https://img.shields.io/badge/-@davidmtzhi-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
