@@ -1,32 +1,19 @@
-[![LinkedIn.jpg](https://i.postimg.cc/9fkWZ1bK/LinkedIn.jpg)](https://www.linkedin.com/in/david-gerardo-mart%C3%ADnez-hidrogo-7340b21b8)
+**David Gerardo Martínez Hidrogo**
 
-# David Gerardo Martínez Hidrogo
+_"If you love what you do and are willing to do what it takes, it's within your reach."_ - Steve Wozniak
 
->"If you love what you do and are willing to do what it takes, it's within your reach" - Steve Wozniak
+As a Computer Science & Engineering Student at Monterrey Institute of Technology and Higher Studies (ITESM), I am driven by the limitless potential of technology. I am passionate about exploring and implementing new technologies that have the potential to change the world.
 
+My technical expertise includes a strong foundation in Python, JavaScript, and C++, with a particular interest in artificial intelligence, full-stack web development, and mobile development using Swift. I am always eager to learn more and improve my skills in these areas.
 
-## 👨🏻‍💻 &nbsp;About Me
+I am currently seeking opportunities to apply my skills in an internship or part-time project. I am also open to pro bono consulting and volunteering, or just engaging in interesting discussions.
 
-💡 &nbsp;Excited by the fact that there are no limits to what can be accomplished through technology. 
-
-🎓 &nbsp;Computer Science & Engineering Student at Monterrey Institute of Technology and Higher Studies (ITESM).
-
-🌍 &nbsp;Passionate about exploring and implementing new technologies that have the potential to change the world.
-
-🤖 &nbsp;Currently learning more about artificial intelligence and full-stack Web Development.
-
-💼 &nbsp;I'm looking for an internship or part time job/project to apply my skills.
-
-
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-
-✉️ &nbsp;You can shoot me an email at gerardomartinez.hi@gmail.com! I'll try to respond as soon as I can.
-
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1v42aA3iy4PrzOzIV0R0jYbKXMTCko5bo/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+Feel free to reach out to me at gerardomartinez.hi@gmail.com. I'm always open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=cplusplus)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
