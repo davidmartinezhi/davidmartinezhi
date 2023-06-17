@@ -1,6 +1,6 @@
-**David Gerardo Martínez Hidrogo**
+# David Gerardo Martínez Hidrogo
 
-_"If you love what you do and are willing to do what it takes, it's within your reach."_ - Steve Wozniak
+> _"If you love what you do and are willing to do what it takes, it's within your reach."_ - Steve Wozniak
 
 As a Computer Science & Engineering Student at Monterrey Institute of Technology and Higher Studies (ITESM), I am driven by the limitless potential of technology. I am passionate about exploring and implementing new technologies that have the potential to change the world.
 
