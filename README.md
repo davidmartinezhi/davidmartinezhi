@@ -4,7 +4,7 @@
 
 As a Computer Science & Engineering Student at Monterrey Institute of Technology and Higher Studies (ITESM), I am driven by the limitless potential of technology. I am passionate about exploring and implementing new technologies that have the potential to change the world.
 
-My technical expertise includes a strong foundation in Python, JavaScript, Typescript, and C++, with a particular interest in artificial intelligence, full-stack web development, and mobile development using SwiftUI. I am always eager to learn more and improve my skills in these areas.
+My technical expertise includes a strong foundation in Python, SwiftUI, JavaScript, Typescript, and C++, with a particular interest in artificial intelligence, full-stack web development, and mobile development using SwiftUI. I am always eager to learn more and improve my skills in these areas.
 
 I am currently seeking opportunities to apply my skills in an internship or part-time project. I am also open to pro bono consulting and volunteering, or just engaging in interesting discussions.
 
